@@ -1,0 +1,12 @@
+* {
+    margin: 2px;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: rgb(58, 226, 148);
+    
+
+}
+body.titulo1{
+    justify-content:center;
+   
+}
